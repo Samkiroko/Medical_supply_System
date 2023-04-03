@@ -1,0 +1,15 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:kiroko4732@localhost/medical_DB",
+    "proud_uri": "mysql://root:kiroko4732@localhost/medical_DB",
+    "fb_url": "https://www.facebook.com/samkiroko/",
+    "tw_url": "https://www.facebook.com/samkiroko/",
+    "gh_url": "https://github.com/samkiroko",
+    "blog_name": "WELCOME",
+    "headname": "MEDICAL SUPPLY MANAGEMENT",
+    "user": "samuel",
+    "password": "123456",
+    "login_image": "aple.jpg"
+  }
+}

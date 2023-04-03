@@ -1,0 +1,33 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "xprotocol"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 33060,
+      "driver": "MySQL",
+      "name": "medical_db",
+      "database": "medical_DB",
+      "username": "root",
+      "password": "kiroko4732",
+      "connectionTimeout": 50
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "xprotocol"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 33060,
+      "driver": "MySQL",
+      "name": "medical",
+      "group": "medical_db",
+      "database": "medical",
+      "username": "root",
+      "password": "kiroko4732",
+      "connectionTimeout": 40
+    }
+  ]
+}
